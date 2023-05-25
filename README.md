@@ -6,5 +6,5 @@
 [![HackWagon](https://github-readme-stats.vercel.app/api/pin/?username=melarozz&repo=HackWagon22&theme=gotham&cache_seconds=2000)](https://github.com/melarozz/HackWagon22)
 [![TheGameOfLife](https://github-readme-stats.vercel.app/api/pin/?username=melarozz&repo=TheGameOfLife&theme=gotham&cache_seconds=2000)](https://github.com/melarozz/TheGameOfLife)
 [![CreditScoring](https://github-readme-stats.vercel.app/api/pin/?username=melarozz&repo=CreditScoring&theme=gotham&cache_seconds=2000)](https://github.com/melarozz/CreditScoring)
-[![Biocad_EDA_ML](https://github-readme-stats.vercel.app/api/pin/?username=melarozz&repo=Biocad_EDA_ML&theme=gotham&cache_seconds=2000)](https://github.com/melarozz/Biocad_EDA_ML)
+[![Biocad_EDA_ML](https://github-readme-stats.vercel.app/api/pin/?username=melarozz&repo=Biocad_EDA_ML&theme=gotham&cache_seconds=200)](https://github.com/melarozz/Biocad_EDA_ML)
 [![TenderHack](https://github-readme-stats.vercel.app/api/pin/?username=melarozz&repo=TenderHackML-DS_API&theme=gotham&cache_seconds=2000)](https://github.com/melarozz/TenderHackML-DS_API)
