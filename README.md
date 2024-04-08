@@ -6,6 +6,8 @@
 
 [![CVIP](https://github-readme-stats.vercel.app/api/pin/?username=CV-goes-frr&repo=CVIP&theme=gotham&cache_seconds=2000)](https://github.com/CV-goes-frr/CVIP)
 [![TheGameOfLife](https://github-readme-stats.vercel.app/api/pin/?username=melarozz&repo=TheGameOfLife&theme=gotham&cache_seconds=2000)](https://github.com/melarozz/TheGameOfLife)
+[![Sign Language Translator](https://github-readme-stats.vercel.app/api/pin/?username=melarozz&repo=Sign-language-translator&theme=gotham&cache_seconds=2000)](https://github.com/melarozz/Sign-language-translator)
+
 
 ## Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melarozz&theme=dark&rank_icon=percentile&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
