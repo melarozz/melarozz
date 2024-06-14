@@ -1,4 +1,4 @@
-<div id="badge" align="center"><a href="https://www.kaggle.com/valeriayakovleva"> <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle Badge" /> </a> <a href="https://t.me/melaroozz"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&amp;logo=Telegram" /> </a> <a href="mailto:v.yakovleva2@g.nsu.ru"> <img src="https://img.shields.io/badge/email-white?style=for-the-badge&amp;logo=gmail" /> </a></div>
+<div id="badge" align="center"></a> <a href="https://t.me/melaroozz"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&amp;logo=Telegram" /> </a> <a href="mailto:v.yakovleva2@g.nsu.ru"> <img src="https://img.shields.io/badge/email-white?style=for-the-badge&amp;logo=gmail" /> </a></div>
 <div id="points" align="left">&bull; <a>📌Valeria Yakovleva </a> <br />&bull; <a>👩🏻‍🎓Studying at Novosibirsk State University, Computer Science and System Design</a> <br />&bull; <a>📈Machine Learning and Data Science</a> <br /></div>
 
 
